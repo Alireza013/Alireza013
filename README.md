@@ -18,10 +18,10 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://img.shields.io/endpoint?color=re&label=Numpy&logo=numpy&logoColor=yellow&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Numpy" />
   <img src="https://img.shields.io/endpoint?color=re&label=Pandas&logo=pandas&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Pandas" />
-  <img src="https://img.shields.io/endpoint?color=re&label=Scipy&logo=scipy&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Scipy" />
   <img src="https://img.shields.io/endpoint?color=re&label=Matplotlib&logo=Matplotlib&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Matplotlib" />
-  <img src="https://img.shields.io/endpoint?color=re&label=Tkinter&logo=Tkinter&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Tkinter" />
+  <img src="https://img.shields.io/endpoint?color=re&label=Scipy&logo=scipy&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Scipy" />
   <img src="https://img.shields.io/endpoint?color=re&label=OpenCV&logo=opencv&logoColor=lightblue&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="OpenCV" />
+  <img src="https://img.shields.io/endpoint?color=re&label=Tkinter&logo=Tkinter&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Tkinter" />
   <img src="https://img.shields.io/endpoint?color=re&label=Scikit-Learn&logo=scikit-learn&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Scikit-Learn" />
   <img src="https://img.shields.io/endpoint?color=re&label=Flask&logo=flask&logoColor=red&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Flask" />
 </p>
@@ -29,10 +29,10 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/endpoint?color=purple&label=VScode&logo=visualstudio&logoColor=blue&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="VScode" />
-  <img src="https://img.shields.io/endpoint?color=purple&label=Git&logo=git&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Git" />
   <img src="https://img.shields.io/endpoint?color=purple&label=Jupyter&logo=Jupyter&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Jupyter" />
-  <img src="https://img.shields.io/endpoint?color=purple&label=Docker&logo=docker&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Docker" />
+  <img src="https://img.shields.io/endpoint?color=purple&label=Git&logo=git&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Git" />
   <img src="https://img.shields.io/endpoint?color=purple&label=GitHub&logo=github&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Github" />
+  <img src="https://img.shields.io/endpoint?color=purple&label=Docker&logo=docker&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Docker" />
 </p>
 <hr>
 <p align="center"><samp><strong>Operating System</strong></samp></p>
