@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
-  <img src="https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git" alt="Git" />
+  <img src="https://img.shields.io/endpoint?color=purple&label=VScode&logo=visualstudio&logoColor=blue&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="VScode" />
+  <img src="https://img.shields.io/endpoint?color=purple&label=Git&logo=git&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Git" />
   <img src="https://img.shields.io/endpoint?color=green&label=Jupyter&logo=jupyter&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="Github" />
+  <img src="https://img.shields.io/endpoint?color=purple&label=Docker&logo=docker&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Docker" />
+  <img src="https://img.shields.io/endpoint?color=purple&label=GitHub&logo=github&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Github" />
 </p>
 <hr>
 <p align="center"><samp><strong>Operating System</strong></samp></p>
@@ -43,12 +43,12 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <p align="center"><samp><strong>Github Stats</strong></samp></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakbarzohour&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaRahimi&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alireza013&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza013&layout=compact&theme=radical" />
 </p>
 <hr>
 <p align="center"><samp><strong>Contact Me</strong></samp></p>
 <p align="center"> 
-  <a href="https://www.alireza.rahimi16229@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.alireza.rahimi16229@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/alireza-rahimi/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" /></a>
 </p>
