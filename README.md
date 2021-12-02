@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://img.shields.io/endpoint?color=purple&label=VScode&logo=visualstudio&logoColor=blue&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="VScode" />
   <img src="https://img.shields.io/endpoint?color=purple&label=Git&logo=git&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Git" />
-  <img src="https://img.shields.io/endpoint?color=green&label=Jupyter&logo=jupyter&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Jupyter" />
+  <img src="https://img.shields.io/endpoint?color=purple&label=Jupyter&logo=Jupyter&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Jupyter" />
   <img src="https://img.shields.io/endpoint?color=purple&label=Docker&logo=docker&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Docker" />
   <img src="https://img.shields.io/endpoint?color=purple&label=GitHub&logo=github&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Github" />
 </p>
