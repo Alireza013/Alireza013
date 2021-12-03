@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 <br />
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
 <p align="center">
-  <img src="https://img.shields.io/endpoint?label=C%2B%2B&logo=C%2B%2B&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="C++" />
-  <img src="https://img.shields.io/clearlydefined/score/npm/npmjs/-/jquery/3.4.1?color=r&label=Python&logo=python" alt="Python" />
+  <img src="https://img.shields.io/teamcity/coverage/ReactJSNet_PullRequests?label=C%2B%2B&logo=c%2B%2B&server=https%3A%2F%2Fteamcity.jetbrains.com" alt="C++" />
+  <img src="https://img.shields.io/codacy/coverage/e02de8d738bb4701b6345624ea2de66c?color=r&label=Python&logo=python" alt="Python" />
 </p>
 <hr>
 <p align="center"><samp><strong>Frame Work and Library</strong></samp></p>
