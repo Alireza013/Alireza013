@@ -1,11 +1,11 @@
 <!---
-Alireza013/Alireza013 is a ✨special✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alireza013/Alireza013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center"><h1 align="center"><samp>I'm Alireza Rahimi</samp></h1></p>
-<p align="center"><samp> - 👀 I’m interested in programming, Machine Learning ,python ,team working ...<br/>
-- 🌱 I’m currently learning ML in python ,AI ...<br/>
-- 💞️ I’m looking to collaborate on advanced programmers ,programming company .<br/>
+<p align="center"><samp> 👀 I’m interested in programming, Machine Learning ,python ,team working ...<br/>
+🌱 I’m currently learning ML in python ,AI ...<br/>
+💞️ I’m looking to collaborate on advanced programmers ,programming company .<br/>
 </samp></p>
 <br />
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
