@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,cpp" />
   </a>
 </p>
 <hr>
