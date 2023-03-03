@@ -10,8 +10,9 @@ You can click the Preview link to take a look at your changes.
 <br />
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
 <p align="center">
-  <img src="https://img.shields.io/teamcity/coverage/ReactJSNet_PullRequests?label=C%2B%2B&logo=c%2B%2B&server=https%3A%2F%2Fteamcity.jetbrains.com" alt="C++" />
-  <img src="https://img.shields.io/codacy/coverage/e02de8d738bb4701b6345624ea2de66c?color=r&label=Python&logo=python" alt="Python" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,docker,c,vim" />
+  </a>
 </p>
 <hr>
 <p align="center"><samp><strong>Frame Work and Library</strong></samp></p>
@@ -33,11 +34,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/endpoint?color=purple&label=Git&logo=git&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Git" />
   <img src="https://img.shields.io/endpoint?color=purple&label=GitHub&logo=github&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Github" />
   <img src="https://img.shields.io/endpoint?color=purple&label=Docker&logo=docker&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday" alt="Docker" />
-</p>
-<hr>
-<p align="center"><samp><strong>Operating System</strong></samp></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Windows-white?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
 </p>
 
 <hr>
