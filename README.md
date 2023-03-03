@@ -32,6 +32,6 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <p align="center"><samp><strong>Contact Me</strong></samp></p>
 <p align="center"> 
-  <a href="https://www.alireza.rahimi16229@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:alireza.rahimi16229@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/alireza-rahimi/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" /></a>
 </p>
