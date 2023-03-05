@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 💞️ I’m looking to collaborate on advanced programmers ,programming company .<br/>
 </samp></p>
 <br />
-<p style="font-size: 18px; align="center"><samp><strong>Programming Language</strong></samp></p>
+<p style="font-size: 18px;" align="center"><samp><strong>Programming Language</strong></samp></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,matlab" />
