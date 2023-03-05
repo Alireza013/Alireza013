@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 </samp></p>
 <br />
 
-<p align="center"><strong><span style="font-size: 20px;">Programming Language</span></strong></p>
+<p align="center"><strong><span style="font-size: 30px;">Programming Language</span></strong></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,matlab" />
