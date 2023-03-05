@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <hr>
-<p align="center" style="font-size: 30px;"><strong>Tool And Technology</strong></p>
+<p align="center" style="font-size: 300px;"><strong>Tool And Technology</strong></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=qt,selenium,sequelize,postman,sqlite,tensorflow,git,azure,vscode" />
