@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <hr>
-<p align="center"><span style="font-size: 20px;"><strong>Github Stats</span></strong></p>
+<p align="center"><span style="font-size: 20px;"><strong>Github Status</span></strong></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alireza013&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza013&layout=compact&theme=radical" />
