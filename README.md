@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+
 <hr>
 <p align="center"><strong><span style="font-size: 30px;">Tool And Technology</span></strong></p>
 <p align="center">
@@ -23,6 +24,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=qt,selenium,sequelize,postman,sqlite,tensorflow,git,azure,vscode" />
   </a>
 </p>
+
 
 <hr>
 <p align="center"><span style="font-size: 20px;"><strong>Github Stats</span></strong></p>
