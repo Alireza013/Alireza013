@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><strong><span style="font-size: 30px;">Tool And Technology</span></strong></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=qt,selenium,sequelize,postman,sqlite,tensorflow,git,azure,vscode" />
+    <img src="https://skillicons.dev/icons?i=qt,django,selenium,sequelize,postman,sqlite,tensorflow,git,azure,vscode" />
   </a>
 </p>
 
