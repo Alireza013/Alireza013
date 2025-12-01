@@ -104,17 +104,14 @@ Building smart, scalable, and secure systems.
 <hr>
 
 <!-- GitHub Stats Section -->
-
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-<!-- Main Stats Card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alireza013&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Alireza's GitHub Stats" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Alireza013&show_icons=true&hide_border=true&theme=tokyonight" alt="Alireza's GitHub Stats" />
+  </a>
 
-<!-- Top Languages Card -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza013&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</a>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza013&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
