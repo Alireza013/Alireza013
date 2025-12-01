@@ -115,6 +115,6 @@ Building smart, scalable, and secure systems.
 <!-- Top Languages Card -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAlireza013%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza013&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </a>
 </div>
