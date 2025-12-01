@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/u/85294640?s=400&u=ee0a2d1d9e9d33c4bf2be5461cbe5d73195f9b06&v=4" alt="Alireza Rahimi" width="200" style="border-radius: 50%; border: 4px solid #2eb2ff;" />
-  
   <h1 align="center">Hi there, I'm Alireza Rahimi 👋</h1>
   <h3 align="center">M.Sc. Student in AI | Back-End Developer</h3>
 
@@ -35,9 +33,19 @@
 <h3 align="center">🛠️ Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,matlab&theme=dark" alt="Languages" /><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,selenium,pandas,numpy&theme=dark" alt="AI" /><br>
-  <img src="https://skillicons.dev/icons?i=qt,sqlite,mysql,git,docker,linux,vscode,postman&theme=dark" alt="Tools" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,matlab,bash&theme=dark" alt="Languages" />
+  </a>
+  <br>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas,numpy,selenium&theme=dark" alt="AI Stack" />
+  </a>
+  <br>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=qt,sqlite,mysql,git,docker,linux,vscode,postman&theme=dark" alt="DevOps Tools" />
+  </a>
 </p>
 
 <hr>
@@ -70,9 +78,10 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alireza013&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=2eb2ff&icon_color=2eb2ff" alt="Github Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza013&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=2eb2ff" alt="Top Langs" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Alireza013&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=2eb2ff&icon_color=2eb2ff" alt="Alireza's GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza013&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=2eb2ff" alt="Top Languages" />
+  </p>
 </div>
-
-<br>
