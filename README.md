@@ -49,7 +49,7 @@ Building smart, scalable, and secure systems.
 <p><b>Languages</b></p>
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,cpp,matlab,bash,mysql&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,cpp,matlab,php,bash,mysql&theme=dark" alt="Languages" />
 </a>
 </p>
 
@@ -58,7 +58,7 @@ Building smart, scalable, and secure systems.
 <p><b>AI & Data Science</b></p>
 <p>
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtensorflow,pytorch,opencv,sklearn,pandas,numpy,selenium%26theme%3Ddark" alt="AI Stack" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas,numpy,selenium&theme=dark" alt="AI Stack" />
 </a>
 </p>
 
@@ -67,7 +67,7 @@ Building smart, scalable, and secure systems.
 <p><b>Frameworks & Tools</b></p>
 <p>
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dqt,sqlite,git,docker,linux,vscode,postman,github%26theme%3Ddark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=qt,sqlite,git,docker,linux,vscode,postman,github&theme=dark" alt="Tools" />
 </a>
 </p>
 
