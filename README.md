@@ -58,7 +58,7 @@ Building smart, scalable, and secure systems.
 <p><b>AI & Data Science</b></p>
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas,numpy,selenium&theme=dark" alt="AI Stack" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,selenium&theme=dark" alt="AI Stack" />
 </a>
 </p>
 
@@ -67,7 +67,7 @@ Building smart, scalable, and secure systems.
 <p><b>Frameworks & Tools</b></p>
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=qt,sqlite,git,docker,linux,vscode,postman,github&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=qt,django,flask,nginx,notion,sqlite,git,docker,linux,vscode,azure,postman&theme=dark&perline=4" alt="Tools" />
 </a>
 </p>
 
