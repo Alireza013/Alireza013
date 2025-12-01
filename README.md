@@ -49,7 +49,7 @@ Building smart, scalable, and secure systems.
 <p><b>Languages</b></p>
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons%3Fi%3Dpy,cpp,matlab,bash,mysql%26theme%3Ddark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,cpp,matlab,bash,mysql&theme=dark" alt="Languages" />
 </a>
 </p>
 
