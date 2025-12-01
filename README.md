@@ -36,5 +36,5 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><span style="font-size: 20px;"><strong>Contact Me</span></strong></p>
 <p align="center"> 
   <a href="mailto:alireza.rahimi16229@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/alireza-rahimi/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" /></a>
+  <a href="https://www.linkedin.com/in/rahimi-alirezaa/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" /></a>
 </p>
