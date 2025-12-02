@@ -106,12 +106,5 @@ Building smart, scalable, and secure systems.
 <!-- GitHub Stats Section -->
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Alireza013&show_icons=true&hide_border=true&theme=tokyonight" alt="Alireza's GitHub Stats" />
-  </a>
-
-  <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza013&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats-server-rho.vercel.app/api?username=Alireza013&show_icons=true&theme=tokyonight&hide_border=true" alt="Alternative Stats" />
 </div>
