@@ -106,5 +106,5 @@ Building smart, scalable, and secure systems.
 <!-- GitHub Stats Section -->
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats-server-rho.vercel.app/api?username=Alireza013&show_icons=true&theme=tokyonight&hide_border=true" alt="Alternative Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Alireza013&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
