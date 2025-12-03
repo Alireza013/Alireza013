@@ -81,21 +81,29 @@ Building smart, scalable, and secure systems.
 <table>
 <tr>
 <td width="50%">
-<h4 align="center">Face Detection & Recognition</h4>
+<h4 align="center">
+  <a href="https://github.com/Alireza013/Face_Detection">Face Detection & Recognition</a>
+</h4>
 <p align="center">Real-time recognition system using OpenCV, YOLO, and DeTR with custom datasets.</p>
 </td>
 <td width="50%">
-<h4 align="center">YouTube Analyzer</h4>
+<h4 align="center">
+  <a href="https://github.com/Alireza013/youtube-analyzer">YouTube Analyzer</a>
+</h4>
 <p align="center">A tool to extract channel data and analyze trends, exporting reports to Excel.</p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<h4 align="center">Persian CAPTCHA Solver</h4>
+<h4 align="center">
+  <a href="https://github.com/Alireza013/Persian_Recaptcha">Persian CAPTCHA</a>
+</h4>
 <p align="center">Bot detection system optimized for processing Persian CAPTCHA messages.</p>
 </td>
 <td width="50%">
-<h4 align="center">Music Searcher</h4>
+<h4 align="center">
+  <a href="https://github.com/Alireza013/Music-Searcher">Music Searcher</a>
+</h4>
 <p align="center">Search engine to find music tracks by artist or song title using web scraping.</p>
 </td>
 </tr>
