@@ -110,9 +110,3 @@ Building smart, scalable, and secure systems.
 </table>
 
 <hr>
-
-<!-- GitHub Stats Section -->
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alireza013&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
