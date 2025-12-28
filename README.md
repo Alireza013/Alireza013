@@ -102,9 +102,9 @@ Building smart, scalable, and secure systems.
 </td>
 <td width="50%">
 <h4 align="center">
-  <a href="https://github.com/Alireza013/Music-Searcher">Music Searcher</a>
+  <a href="https://github.com/Alireza013/Mood_Playlist">Mood Playlist</a>
 </h4>
-<p align="center">Search engine to find music tracks by artist or song title using web scraping.</p>
+<p align="center">An AI Transformer model that recommend some music and movie based on user mood.</p>
 </td>
 </tr>
 </table>
